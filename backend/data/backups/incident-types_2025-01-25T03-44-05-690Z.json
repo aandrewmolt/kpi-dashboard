@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Cables",
+    "description": "Issues related to cable connections and wiring",
+    "created_at": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Cloud",
+    "description": "Cloud connectivity and data transmission issues",
+    "created_at": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "ShearStream Box",
+    "description": "Problems with the ShearStream monitoring equipment",
+    "created_at": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Gauges",
+    "description": "Issues with pressure gauges and sensors",
+    "created_at": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Frac Issues",
+    "description": "General frac operation problems",
+    "created_at": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Offset Gauge",
+    "description": "Problems with offset well pressure gauges",
+    "created_at": "2024-01-15T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Offset Battery",
+    "description": "Issues with offset well power supply",
+    "created_at": "2024-01-15T00:00:00Z"
+  }
+]

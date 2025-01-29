@@ -1,0 +1,14 @@
+{
+  "name": "kpi-dashboard-backend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.2",
+    "react-error-boundary": "^5.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

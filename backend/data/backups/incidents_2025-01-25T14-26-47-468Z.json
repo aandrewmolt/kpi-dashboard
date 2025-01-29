@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "job_id": 1,
+    "type_id": 1,
+    "description": "Cable connection issues during operations",
+    "start_time": "2025-01-01T22:00",
+    "end_time": "2025-01-03T02:30",
+    "fault": "ShearFrac",
+    "created_at": "2025-01-02T03:00:00Z",
+    "updated_at": "2025-01-25T04:00:00.026Z"
+  },
+  {
+    "id": 2,
+    "job_id": 3,
+    "type_id": 7,
+    "description": "Frac pump maintenance required",
+    "start_time": "2025-01-10T01:00:00Z",
+    "end_time": "2025-01-11T06:00:00Z",
+    "fault": "Frac",
+    "created_at": "2025-01-10T01:00:00Z",
+    "updated_at": "2025-01-11T06:00:00Z"
+  },
+  {
+    "id": 4,
+    "job_id": 3,
+    "type_id": 5,
+    "fault": "Frac",
+    "start_time": "2025-01-14T12:45:00Z",
+    "end_time": "2025-01-15T09:45:00Z",
+    "description": "Frac Separated Iron",
+    "created_at": "2025-01-14T12:45:00Z",
+    "updated_at": "2025-01-15T09:45:00Z"
+  },
+  {
+    "job_id": 3,
+    "type_id": 8,
+    "description": "We are going to the MOOOOON ",
+    "start_time": "2025-01-17T09:55",
+    "end_time": "2025-01-18T09:56",
+    "fault": "Other",
+    "id": 6
+  },
+  {
+    "id": 7,
+    "job_id": 8,
+    "type_id": 7,
+    "description": "I think we did it..222",
+    "start_time": "2025-01-23T23:29",
+    "end_time": "2025-01-24T17:24",
+    "fault": "Other",
+    "created_at": "2025-01-25T03:30:05.112Z",
+    "updated_at": "2025-01-25T04:05:52.982Z"
+  }
+]

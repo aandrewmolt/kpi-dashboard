@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Sonic 32",
+    "location": "Junction, CA",
+    "operator_id": 1,
+    "deleted": false
+  },
+  {
+    "id": 2,
+    "name": "Franks",
+    "location": "Midland, TX",
+    "operator_id": 1,
+    "deleted": false
+  },
+  {
+    "id": 3,
+    "name": "Sundance",
+    "location": "Permian Basin",
+    "operator_id": 2,
+    "deleted": false
+  },
+  {
+    "id": 4,
+    "name": "Let The Bodies Hit The Floor",
+    "location": "Cancun",
+    "operator_id": 5,
+    "deleted": false
+  },
+  {
+    "id": 5,
+    "name": "Monster Pad B",
+    "location": "San Antonio, TX",
+    "operator_id": 4,
+    "deleted": false
+  },
+  {
+    "id": 6,
+    "name": "Test2",
+    "location": "sdfsdfsdf",
+    "operator_id": 4,
+    "deleted": true
+  },
+  {
+    "id": 7,
+    "name": "asdfdfsdfsdf",
+    "location": "sdfsdf",
+    "operator_id": 4,
+    "deleted": true
+  }
+]

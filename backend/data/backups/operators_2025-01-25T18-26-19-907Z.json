@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "BPX",
+    "role": "Operator",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Chevron",
+    "role": "Operator",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "name": "Repsol",
+    "role": "Operator",
+    "status": "active"
+  },
+  {
+    "name": "EQT",
+    "role": "Operator",
+    "status": "active",
+    "id": 5
+  },
+  {
+    "id": 8,
+    "name": "Test12",
+    "role": "Operator",
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "name": "Arrington",
+    "role": "Operator",
+    "status": "active"
+  }
+]
